@@ -1,4 +1,3 @@
-![Jan-12-2022 07-53-30](https://user-images.githubusercontent.com/92564077/149503538-594af8d0-1f33-48bd-ba78-21857a1e21e2.gif)
 # smartphone wesbite
 This website uses phones that have recently been released and you can select which phone you are looking for depending on the brand you like the most!
 # Requirements
