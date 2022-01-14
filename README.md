@@ -3,7 +3,7 @@ This website uses phones that have recently been released and you can select whi
 # Requirements
 <ul>
  <li>HTML</li> 
- <li>CSS/li>
+ <li>CSS</li>
  <li>JavaScript</li>
  <li>Bootstrap</li>
 </ul>
