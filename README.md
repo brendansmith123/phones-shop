@@ -18,4 +18,5 @@ This website uses phones that have recently been released and you can select whi
 ```
 
 # Bootstrap Used for Nav Off Canvas
-![Jan-12-2022 07-53-30](https://user-images.githubusercontent.com/92564077/149503587-1e8f3a45-009f-49c2-be9a-fdd48e9a7a7e.gif)
+![e-commerce giphy](https://user-images.githubusercontent.com/92564077/149570401-33b33d5b-8280-4c0f-8e9f-430cac834a64.gif)
+
