@@ -17,6 +17,6 @@ This website uses phones that have recently been released and you can select whi
  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 ```
 
-# Bootstrap Used for Nav Off Canvas
+# Bootstrap Used for Nav Off Canvass
 ![e-commerce giphy](https://user-images.githubusercontent.com/92564077/149570401-33b33d5b-8280-4c0f-8e9f-430cac834a64.gif)
 
